@@ -1,7 +1,7 @@
 package com.w1nd.algorithm.list;
 
 /**
- * 反转链表2：翻转某区间的链表，先将该区间内的指针反转，在将头指针尾指针指好
+ * 92.反转链表2：翻转某区间的链表，先将该区间内的指针反转，在将头指针尾指针指好
  */
 public class ReverseList2 {
     /**
